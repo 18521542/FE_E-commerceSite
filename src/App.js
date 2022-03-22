@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          {`This is for khoa luan tot nghiep of Trong & Linh`}
         </a>
       </header>
       <MessengerCustomerChat
